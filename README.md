@@ -7,6 +7,8 @@ OpenGL functions, GLM for math, and STB_image for loading textures.
 It is a work in progress, and currently supports a few basic features such as
 Phoung shading, a movable camera, a skybox, etc.
 
+![screenshot](Screenshot1.png)
+
 ## Building:
 
 This project uses a simple makefile. All you need to do is clone this repo, and
